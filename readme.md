@@ -71,6 +71,46 @@ If you're interested in projects related to solving real-world problems in ECE a
 ## 🌟 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JRK-007&show_icons=true&theme=radical)
 
+
+![Public Repos](https://img.shields.io/github/repos/JRK-007/PORTFOLIO?style=for-the-badge)
+![Total Public Repos](https://img.shields.io/github/repos/JRK-007?style=for-the-badge)
+# .github/workflows/update-readme.yml
+name: Update README with repo count
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # runs daily at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Get public repo count
+        id: repo_count
+        uses: octokit/request-action@v2.x
+        with:
+          route: GET /users/JRK-007
+          
+      - name: Replace placeholder in README.md
+        run: |
+          echo "Replacing repo count..."
+          REPO_COUNT=${{ steps.repo_count.outputs.data }}
+          REPO_COUNT=$(echo $REPO_COUNT | jq '.public_repos')
+          sed -i "s/REPLACE_REPO_COUNT/$REPO_COUNT/g" README.md
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update repo count in README [skip ci]" || echo "No changes to commit"
+          git push
+
+
 ## 📈 Most Active Languages
 ![Most Active Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JRK-007&theme=radical)
 
