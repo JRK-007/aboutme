@@ -1,0 +1,24 @@
+name: Update README with Latest Repos
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # every hour
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Run GitHub Readme Stats Generator
+        uses: anuraghazra/github-readme-stats@master
+
+      - name: Generate Latest Repositories
+        uses: marketplacer/auto-update-profile-readme@v1
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MAX_REPOS: 5
