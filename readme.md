@@ -19,7 +19,7 @@ I'm deeply passionate about integrating technical knowledge with innovation to c
 ---
 
 ### 🅱️ Blogging
-- Active writer on [**Quora**](https://www.quora.com/profile/Your-Profile-Link)  
+- Active writer on [**Quora**][https://www.quora.com/profile/Rahulkrishna-J] 
 - Share insights on tech, productivity, motivation, and innovation
 
 ---
