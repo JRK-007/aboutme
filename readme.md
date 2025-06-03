@@ -98,7 +98,7 @@ I'm actively learning **full-stack development** to merge software with electron
 
 ---
 
-#### 🔥 **Core Interests**  
+#### 🔥 **CORE INTRESTS **  
 🎯 Defence Technologies  
 💻 VLSI Design & Digital Systems  
 🧠 AI & Machine Learning  
@@ -107,13 +107,13 @@ I'm actively learning **full-stack development** to merge software with electron
 
 ---
 
-### 📊 GitHub Activity Graph
+### 📊 **GITHUB ACTIVITY GRAPH**
 
 [![Rahul's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JRK-007&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
-## 📊 GitHub Metrics (Auto-Updating)
+## 📊 GITHUB METRICS [AUTO UPDATING ]
 
 ![JRK-007's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JRK-007&show_icons=true&theme=tokyonight&count_private=true)
 
@@ -121,10 +121,22 @@ I'm actively learning **full-stack development** to merge software with electron
 
 ![JRK-007's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JRK-007&layout=compact&theme=tokyonight)
 
+![JRK-007's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JRK-007&show_icons=true&count_private=true&theme=radical)
+![Open Source Activity](https://badges.pufler.dev/years/JRK-007)
 
 ![JRK-007's GitHub Trophy](https://github-profile-trophy.vercel.app/?username=JRK-007&theme=radical&no-frame=true&no-bg=true&margin-w=15)
 
+## ✨✨ TOP LANGUAGE USED
 ![JRK-007's Language Card](https://github-readme-stats.vercel.app/api/top-langs/?username=JRK-007&layout=compact&theme=radical)
+## 📝 TOP LANGUAGE SUMMARY 
+![JRK-007's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JRK-007&layout=compact&theme=radical)
+## 🧑‍💻 LANGUEGES BREAKDOWN BADGES
+![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 
 ![JRK-007's Followers](https://img.shields.io/github/followers/JRK-007?style=social)
 ![JRK-007's GitHub Rank](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JRK-007&theme=radical)
