@@ -1,147 +1,74 @@
-# 🗣️About Me:
-🚀 I'm pursuing a degree in Electronics and Communication Engineering 📶. I’m passionate about integrating technical skills with innovative solutions!
-
-Exploring:🔍
-
-Artificial Intelligence 🤖: GEN AI, Azure, OpenAI  
-Blogging on Quora 🅱️  
-Creative Content Writing 📝  
-Digital Marketing 🛜  
-I'm eager to gain hands-on experience in VLSI and electronics projects to solve real-world problems. 🌍🔧
-
-## Learning Development:
-### Front End Tools:
-👉🏻HTML and CSS  
-👉Git & GitHub  
-👉🏻JavaScript  
-👉React  
-👉🏻TypeScript  
-
-### Back End Tools:
-👉🏻OWASP  
-👉SQL  
-👉🏻Microservices (Kubernetes, Python)  
-👉GraphQL  
-
-💡 Excited to blend these skills into impactful projects and collaborate with like-minded professionals.
-
-## 🎓 Education 
-**Amrita Vishwa Vidyapeetham University**  
-[Learn more about the university here.](https://en.wikipedia.org/wiki/Amrita_Vishwa_Vidyapeetham)
-
-## 🤝 Contributions and Collaboration
-If you're interested in projects related to solving real-world problems in ECE and CSE domains, feel free to reach out!  
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-krishna-j/) &nbsp;&nbsp; 
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/Rkj007-hub) &nbsp;&nbsp; 
-[![Instagram](https://img.shields.io/badge/Instagram-%23FFA116.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rahul_krishna_j_/) &nbsp;&nbsp; 
-[![Quora](https://img.shields.io/badge/Quora-%23FFA116.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Rahulkrishna-J)&nbsp;&nbsp; 
-[![Blog](https://img.shields.io/badge/Blog-%23FF5722.svg?logo=blogger&logoColor=white)](https://rkandblogs.blogspot.com) &nbsp;&nbsp; 
-[![Mail Me](https://img.shields.io/badge/Mail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:tomyblog007@gmail.com)  
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) &nbsp;&nbsp; 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) &nbsp;&nbsp; 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) &nbsp;&nbsp; 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) &nbsp;&nbsp; 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white) &nbsp;&nbsp; 
-![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) &nbsp;&nbsp; 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) &nbsp;&nbsp; 
-![Django](https://img.shields.io/badge/Django-%23092B2C.svg?style=for-the-badge&logo=django&logoColor=white) &nbsp;&nbsp; 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) &nbsp;&nbsp; 
-![SciPy](https://img.shields.io/badge/SciPy-%23E0532B.svg?style=for-the-badge&logo=sci-py&logoColor=white) &nbsp;&nbsp; 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) &nbsp;&nbsp; 
-![SQL](https://img.shields.io/badge/SQL-%232B2D42.svg?style=for-the-badge&logo=sqlite&logoColor=white) &nbsp;&nbsp; 
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) &nbsp;&nbsp; 
-![Node.js](https://img.shields.io/badge/Node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white) &nbsp;&nbsp; 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%233471B5.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white) &nbsp;&nbsp; 
-![GraphQL](https://img.shields.io/badge/GraphQL-%E10098.svg?style=for-the-badge&logo=graphql&logoColor=white) &nbsp;&nbsp; 
-![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=json-web-tokens&logoColor=white) &nbsp;&nbsp; 
-![OAuth](https://img.shields.io/badge/OAuth-%232F303B.svg?style=for-the-badge&logo=oauth&logoColor=white) &nbsp;&nbsp; 
-![DOM](https://img.shields.io/badge/DOM-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
-
-## 🤖CODING CHALLENGES :
-**CHECK OUT MY PROFILES :**
-- [LEETCODE](https://leetcode.com/u/RAHUL_KRISHNA_J/) 🌐
-- [HACKER-RANK](https://www.hackerrank.com/profile/tomyblog007) 💻
-- [CODECHEF](https://www.codechef.com/users/rahulkrishnaj) 🍽️
-- [TAKE-U-FORWARD](https://takeuforward.org/profile/JRK_007) 📚
-
-## 🌟 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JRK-007&show_icons=true&theme=radical)
-
-
-![Public Repos](https://img.shields.io/github/repos/JRK-007/PORTFOLIO?style=for-the-badge)
-![Total Public Repos](https://img.shields.io/github/repos/JRK-007?style=for-the-badge)
-# .github/workflows/update-readme.yml
-name: Update README with repo count
-
-on:
-  schedule:
-    - cron: '0 0 * * *' # runs daily at midnight UTC
-  workflow_dispatch:
-
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: actions/checkout@v3
-
-      - name: Get public repo count
-        id: repo_count
-        uses: octokit/request-action@v2.x
-        with:
-          route: GET /users/JRK-007
-          
-      - name: Replace placeholder in README.md
-        run: |
-          echo "Replacing repo count..."
-          REPO_COUNT=${{ steps.repo_count.outputs.data }}
-          REPO_COUNT=$(echo $REPO_COUNT | jq '.public_repos')
-          sed -i "s/REPLACE_REPO_COUNT/$REPO_COUNT/g" README.md
-
-      - name: Commit and push changes
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git commit -m "Update repo count in README [skip ci]" || echo "No changes to commit"
-          git push
-
-
-## 📈 Most Active Languages
-![Most Active Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JRK-007&theme=radical)
-
-## 💻 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JRK-007&layout=compact&theme=radical)
-
-## 📊 Contribution Streak
-![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=JRK-007&theme=radical)
-
-## 👀 Profile Views
-[![](https://visitcount.itsvg.in/api?id=JRK-0071&icon=0&color=0)](https://visitcount.itsvg.in)
-
-## 🏆 GitHub Trophy
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=JRK-007&theme=radical)
+# Hi, I'm Rahul Krishna J 👋  
+*Electronics & Communication Engineering Student | AI/ML Enthusiast | Full Stack Developer | Digital Marketer | Blogger*
 
 ---
 
+## About Me
+🚀 Currently pursuing a Bachelor of Technology in Electronics and Communication Engineering (ECE) at Amrita Vishwa Vidyapeetham.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I'm passionate about blending technical skills with innovation and creative solutions to solve real-world problems, especially related to weather, nature, and defense technologies.
 
-<!--
-**** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have explored and deep dived into:  
+- **Artificial Intelligence & Machine Learning:** GEN AI, Azure (Fundamentals, Copilot for Security, OpenAI Services), Fundamentals of ML  
+- **Blogging & Content Creation:** Quora, Creative Content Writing  
+- **Digital Marketing & Web Development:** Full Stack (HTML, CSS, JavaScript, React, Redux Toolkit, TypeScript, Next.js), Git, GitHub, Cloud Deployment, OWASP, SQL, API Development, Microservices (Kubernetes, Python), GraphQL, Firebase, Redis, NGINX basics  
+- **Core Interests:** Defence Technologies, VLSI Design, AI & ML, Digital Marketing, Content Creation & Blogging
 
-Here are some ideas to get you started:
+Excited to apply these skills in impactful projects and collaborate with like-minded professionals!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 GitHub Stats & Dashboards
+
+![GitHub Profile Stats](https://github-readme-stats.vercel.app/api?username=JRK-007&show_icons=true&theme=dark&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JRK-007&layout=compact&theme=dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JRK-007&theme=dark)
+
+### Yearly Commits
+![Yearly GitHub commits](https://github.com/JRK-007.png?tab=overview&years=1)
+
+### Pull Requests & Contributions
+![PRs and Contributions](https://img.shields.io/badge/Pull%20Requests-Active-brightgreen)
+
+---
+
+## 🏆 Awards & Recognitions
+- GRM Award for Innovative Project Development  
+- IT Excellence Award for Outstanding Contribution  
+*(Add more if any)*
+
+---
+
+## 📂 Projects  
+Check out my projects on GitHub:  
+[My Projects](https://github.com/JRK-007?tab=repositories)
+
+---
+
+## 🌐 Connect with Me  
+
+| Platform    | Link                                                                                  |
+|-------------|---------------------------------------------------------------------------------------|
+| LinkedIn    | [rahul-krishna-j](https://www.linkedin.com/in/rahul-krishna-j/)                      |
+| GitHub      | [Rkj007-hub](https://github.com/Rkj007-hub)                                          |
+| LeetCode    | [RAHUL_KRISHNA_J](https://leetcode.com/u/RAHUL_KRISHNA_J/)                            |
+| HackerRank  | [tomyblog007](https://www.hackerrank.com/profile/tomyblog007)                         |
+| CodeChef    | [rahulkrishnaj](https://www.codechef.com/users/rahulkrishnaj)                        |
+| TakeUForward| [JRK_007](https://takeuforward.org/profile/JRK_007)                                  |
+| Blogspot    | [rkandblogs](https://rkandblogs.blogspot.com/)                                       |
+| Email       | [tomyblog007@gmail.com](mailto:tomyblog007@gmail.com)                                |
+| Facebook    | [Profile](https://www.facebook.com/profile.php?id=100091855578112)                   |
+| Skool       | [Rahul Krishna J](https://www.skool.com/@rahul-krishna-j-7579?g=learn-today)         |
+| X (Twitter) | [JRK__007](https://x.com/JRK__007)                                                   |
+| Unstop      | [jrk0071628](https://unstop.com/u/jrk0071628)                                        |
+
+---
+
+## 📫 Contact Me  
+Feel free to reach out via email or any social media platform listed above!  
+
+---
+
+*Thanks for visiting my profile! Looking forward to connecting and collaborating.*  
