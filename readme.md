@@ -122,6 +122,15 @@ I'm actively learning **full-stack development** to merge software with electron
 ![JRK-007's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JRK-007&layout=compact&theme=tokyonight)
 
 
+![JRK-007's GitHub Trophy](https://github-profile-trophy.vercel.app/?username=JRK-007&theme=radical&no-frame=true&no-bg=true&margin-w=15)
+
+![JRK-007's Language Card](https://github-readme-stats.vercel.app/api/top-langs/?username=JRK-007&layout=compact&theme=radical)
+
+![JRK-007's Followers](https://img.shields.io/github/followers/JRK-007?style=social)
+![JRK-007's GitHub Rank](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JRK-007&theme=radical)
+![JRK-007's Open Issues](https://img.shields.io/github/issues/JRK-007/REPO_NAME)
+![JRK-007's Open PRs](https://img.shields.io/github/issues-pr/JRK-007/REPO_NAME)
+![GitHub Repo Activity](https://ghchart.rshah.org/JRK-007)
 
 
 > 💡 *Excited to apply these skills in impactful projects and collaborate with like-minded professionals around the globe!*
