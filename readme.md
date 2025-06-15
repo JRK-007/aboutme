@@ -61,6 +61,12 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
+**ELECTRONICS DESIGN TOOLS AND SIMULATION PLATFORMS**
+<br>
+![CEDAR Logic](https://img.shields.io/badge/CEDAR_Logic-%231E88E5?style=for-the-badge&logoColor=white)
+![LTspice](https://img.shields.io/badge/LTspice-%23007ACC?style=for-the-badge&logo=ltspice&logoColor=white)
+![Vivado](https://img.shields.io/badge/Xilinx_Vivado-%23F7931E?style=for-the-badge&logo=xilinx&logoColor=white)
+![Eagle](https://img.shields.io/badge/Autodesk_EAGLE-%23FF0000?style=for-the-badge&logo=autodesk&logoColor=white)
 ---
 
 ### ✍️ CONTENT CREATION AND MARKETING :
