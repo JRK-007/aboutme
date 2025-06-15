@@ -31,8 +31,7 @@
 
 ## 🛠️ TECH ARSENAL 
 
-
-### 🤖 AI AND ML 
+**AI AND ML**
 ![GEN AI](https://img.shields.io/badge/GEN_AI-%235865F2?style=for-the-badge&logo=OpenAI&logoColor=white)
 ![Azure Fundamentals](https://img.shields.io/badge/Azure_Fundamentals-%230072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Copilot for Security](https://img.shields.io/badge/Azure_Copilot_for_Security-%230072C6?style=for-the-badge&logo=microsoft&logoColor=white)
