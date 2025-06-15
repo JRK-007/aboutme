@@ -107,14 +107,6 @@
 ### 💼 REPOSITORY STATS
 ![Repo Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JRK-007&theme=radical)
 
-## 📚 All Languages I’ve Used
-
-<!-- LANGS:START -->
-<!-- LANGS:END -->
-
-<!-- DATE:START -->
-<!-- DATE:END -->
-
 </div>
 
 ---
