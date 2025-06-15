@@ -30,8 +30,9 @@
 ---
 
 ## 🛠️ TECH ARSENAL 
-
-**AI AND ML**
+<div align="center">
+ 
+### 🤖 AI AND ML
 ![GEN AI](https://img.shields.io/badge/GEN_AI-%235865F2?style=for-the-badge&logo=OpenAI&logoColor=white)
 ![Azure Fundamentals](https://img.shields.io/badge/Azure_Fundamentals-%230072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Copilot for Security](https://img.shields.io/badge/Azure_Copilot_for_Security-%230072C6?style=for-the-badge&logo=microsoft&logoColor=white)
@@ -60,15 +61,17 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-**ELECTRONICS DESIGN TOOLS AND SIMULATION PLATFORMS**
-<br>
+### 🔌 ELECTRONICS DESIGN TOOLS AND SIMULATION PLATFORMS
 ![CEDAR Logic](https://img.shields.io/badge/CEDAR_Logic-%231E88E5?style=for-the-badge&logoColor=white)
 ![LTspice](https://img.shields.io/badge/LTspice-%23007ACC?style=for-the-badge&logo=ltspice&logoColor=white)
 ![Vivado](https://img.shields.io/badge/Xilinx_Vivado-%23F7931E?style=for-the-badge&logo=xilinx&logoColor=white)
 ![Eagle](https://img.shields.io/badge/Autodesk_EAGLE-%23FF0000?style=for-the-badge&logo=autodesk&logoColor=white)
+
+</div>
+
 ---
 
-### ✍️ CONTENT CREATION AND MARKETING :
+## ✍️ CONTENT CREATION AND MARKETING :
 ![Quora](https://img.shields.io/badge/Quora-%23B92B27?style=for-the-badge&logo=quora&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%2321759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC?style=for-the-badge&logo=canva&logoColor=white)
