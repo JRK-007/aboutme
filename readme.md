@@ -113,8 +113,11 @@
 <div align="center">
 
 ### 💼 REPOSITORY STATS
+<!-- Repos per language (summary-cards) -->
 ![Repo Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JRK-007&theme=radical)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JRK-007&layout=compact&langs_count=20&theme=tokyonight&hide=Jupyter%20Notebook,Shell)
+
+<!-- Language breakdown (readme-stats) -->
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JRK-007&layout=compact&langs_count=20&theme=tokyonight&hide=Jupyter%20Notebook,Shell&v=2)
 
 </div>
 
