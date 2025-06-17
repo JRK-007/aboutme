@@ -2,10 +2,11 @@
  # 💚 I'M RAHUL KRISHNA J 
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=ELECTRONICS+%26+COMMUNICATION+ENGINEER;FULL-STACK+DEVELOPER;AI+%26+ML+ENTHUSIAST;DIGITAL+MARKETING+STRATEGIST;CREATIVE+CONTENT+WRITER)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00A1E0&center=true&vCenter=true&width=700&lines=ELECTRONICS+%26+COMMUNICATION+ENGINEER;FULL-STACK+DEVELOPER;AI+%26+ML+ENTHUSIAST;DIGITAL+MARKETING+STRATEGIST;CREATIVE+CONTENT+WRITER)](https://git.io/typing-svg)
 
 </div>
+
 
 ---
 <div align="center">
