@@ -86,7 +86,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JRK-007&theme=radical&hide_border=true" width="49%" />
 
 ### 🌟 ACHIEVEMENT SHOWCASE
-![Trophy](https://github-profile-trophy.vercel.app/?username=JRK-007&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=JRK-007&theme=radical&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 📊 DEVELOPMENT ACTIVITY MATRIX :
 
