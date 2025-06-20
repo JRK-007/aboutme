@@ -94,7 +94,8 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JRK-007&theme=github_dark&utcOffset=5.5" width="48%" />
 
 ### 🔥 CODE QUALITY METRICS : 
-![Code Quality](https://github-readme-stats.vercel.app/api?username=JRK-007&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JRK-007&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9&count_private=true&include_all_commits=true&v=2)
+
 
 </div>
 
